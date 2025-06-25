@@ -1,19 +1,71 @@
-<h1 align="center">Hi 👋, I'm KHALID</h1>
-<h3 align="center">Security researcher & Network - Backend&Frontend Dev</h3>
-<img align="Right" alt="cat" width="400" src="https://www.readersdigest.ca/wp-content/uploads/2021/03/funny-cat-gifs.gif">
+<div align="center">
+  
+# 👋 Hey there, I'm **KHALID**
 
-<p align="left"> <a href="https://twitter.com/vkb" target="blank"><img src="https://img.shields.io/twitter/follow/vkb?logo=twitter&style=for-the-badge" alt="vkb" /></a> </p>
+### 🔐 Security Researcher | 🌐 Full-Stack Developer | 🛡️ Network Specialist
 
-- 🌱 I’m currently learning **Three.js**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Security+Research+Enthusiast;Full-Stack+Developer;Network+Security+Expert;Always+Learning+New+Tech" alt="Typing SVG" />
 
-- 💬 Ask me about **React, C#, Network**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vkb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vkb" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sobad321&show_icons=true&locale=en&layout=compact" alt="sobad321" /></p>
+### 🚀 About Me
+
+- 🌱 Currently diving deep into **Three.js** for immersive web experiences
+- 🔍 Passionate about **cybersecurity** and **penetration testing**
+- 💻 Building secure applications with **React** and **C#**
+- 🌐 Exploring the intersection of **security** and **web development**
+- 💬 Let's talk about **React, C#, Network Security, or anything tech!**
+
+### 🤝 Let's Connect
+
+<div align="left">
+  
+[![Twitter Follow](https://img.shields.io/twitter/follow/vkb?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1DA1F2&logoColor=white)](https://twitter.com/vkb)
+
+</div>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Programming Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cs,cpp,php,html,css,js" />
+
+**Frameworks & Libraries**
+<br>
+<img src="https://skillicons.dev/icons?i=react,dotnet,tailwind,threejs" />
+
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode" />
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobad321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sobad321&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"Security is not a product, but a process"* 🔒
+
+**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** ⭐
+
+</div>
